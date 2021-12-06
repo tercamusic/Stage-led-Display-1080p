@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs ver="4.2.5.0">
+  <VersionInfo>
+    <Name>MRV360_Data_Mars_V4.2.5.0</Name>
+    <SenderMCU></SenderMCU>
+    <SenderFPGA></SenderFPGA>
+    <ScanBoardFPGA>MRV360FpgaVer4.2.5.0.dat</ScanBoardFPGA>
+    <ScanBoardModel>4102</ScanBoardModel>
+    <SenderModel>0101</SenderModel>
+  </VersionInfo>
+</Programs>

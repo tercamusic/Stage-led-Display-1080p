@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs ver="4.2.5.0">
+  <VersionInfo>
+    <Name>Tx660_Data_Mars_4.2.5.0</Name>
+    <SenderMCU>SendMcuTx660Ver4.2.5.0.dat</SenderMCU>
+    <SenderFPGA>SendFpgaTx660Ver4.2.5.0.dat</SenderFPGA>
+    <ScanBoardFPGA></ScanBoardFPGA>
+    <ScanBoardModel>4101</ScanBoardModel>
+    <SenderModel>1101</SenderModel>
+  </VersionInfo>
+</Programs>
